@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T20:41:28.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="lIawqluBR7iNOmpne5M3" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T15:43:37.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="wlLSqBgHGajmfTkqJ2AK" version="13.2.6" type="github">
   <diagram id="MJYNdHisa2NbRyyXpYyt" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1874" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,8 +79,8 @@
         <mxCell id="nftmeqfcO3UOQJrNgUaF-9" value="Content gateway&lt;br&gt;&lt;br&gt;Java API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="282.4" width="110" height="57.6" as="geometry" />
         </mxCell>
-        <mxCell id="ayA_f1j_V87uIdwJO3n0-9" value="&lt;h1&gt;java API&lt;/h1&gt;&lt;p&gt;Following are the functionality java api will provide.&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. Coverts the data provided into PDF.&lt;/p&gt;&lt;p&gt;2. Can send content to all System based on the flag from requesting system..&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="7.5" y="620" width="190" height="210" as="geometry" />
+        <mxCell id="ayA_f1j_V87uIdwJO3n0-9" value="&lt;h1&gt;java API&lt;/h1&gt;&lt;p&gt;Following are the functionality java api will provide.&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. Coverts the data provided into PDF.&lt;/p&gt;&lt;p&gt;2. Can send content to all System based on the flag from requesting system..&lt;/p&gt;&lt;p&gt;3. If the api is requested to push the document to S3 then api will set the security level 1 with users name&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="7.5" y="620" width="192.5" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
